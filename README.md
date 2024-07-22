@@ -25,3 +25,4 @@ It does the transformations described in the task.
 it is created as a class so it can easly be used as an API and reused
 a json file contains a script of the different transformations for easy editing
 there are also loggings in case of any errors
+Test are added to see that the csv file is correctly loaded and teste to see if rename is done correctly
