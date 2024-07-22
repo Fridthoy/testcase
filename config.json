@@ -1,0 +1,17 @@
+{
+    "columns_rename": {
+        "Order Number": "OrderID",
+        "Product Number": "ProductId",
+        "Product Name": "ProductName",
+        "Count": "Quantity"
+    },
+    "new_columns": {
+        "Unit": "kg"
+    },
+    "date_columns": {
+        "Year": "Year",
+        "Month": "Month",
+        "Day": "Day",
+        "new_date_column": "OrderDate"
+    }
+}
