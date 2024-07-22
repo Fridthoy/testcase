@@ -20,9 +20,13 @@ cd testcase
 
 
 ### deliverables
-The code is created using python pandas. 
-It does the transformations described in the task. 
-it is created as a class so it can easly be used as an API and reused
-a json file contains a script of the different transformations for easy editing
-there are also loggings in case of any errors
-Test are added to see that the csv file is correctly loaded and teste to see if rename is done correctly
+- The code is created using python pandas. 
+- It does the transformations described in the task. 
+- It is created as a class so it can easly be used as an API and reused
+- A json file contains a script of the different transformations for easy editing
+- Here are also loggings in case of any errors
+- Test are added to see that the csv file is correctly loaded and teste to see if rename is done correctly
+
+### If more time
+- Normally I world prefer to write using spark as it would be better suited for Big data.
+- Not having the code locally
